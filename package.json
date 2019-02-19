@@ -1,0 +1,27 @@
+{
+  "name": "ukdomino",
+  "version": "0.0.2",
+  "description": "ukdomino module js",
+  "main": "src/index.js",
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossAPI/ukdomino.git"
+  },
+  "keywords": [
+    "dominos",
+    "uk"
+  ],
+  "author": "rossapi <bunicornboy@gmail.com> (https://github.com/rossAPi/ukdomino/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rossAPi/ukdomino/issues"
+  },
+  "homepage": "https://github.com/rossAPi/ukdomino#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.3.0",
+    "path": "^0.12.7",
+    "util": "^0.11.1"
+  }
+}
