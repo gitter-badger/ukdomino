@@ -1,4 +1,7 @@
 # UKDOMINO NODE.JS MODULE
+
+[![Join the chat at https://gitter.im/ukdomino/community](https://badges.gitter.im/ukdomino/community.svg)](https://gitter.im/ukdomino/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In this module, the Dominos API is used to create features in Javascript, such as getMenu (for any store) and ordering (W.I.P. AS OF 18/02/2019). This module is for the UK-only; I HIGHLY recommend [this module](https://www.npmjs.com/package/dominos "DOMINO USA MODULE") for people in the USA (NPM link). This project is licensed under [the MIT license](https://choosealicense.com/licenses/mit/ "the MIT license").
 
 ## Getting Started
